@@ -1,0 +1,64 @@
+[
+   {
+    "id":1,
+    "name":"C BASIC",
+    "title":"Nail your skill with us ",
+    "Description":"Why should we learn C? C is  ideal for developing operating systems, device drivers, and other applications where performance and efficiency are critical.Competitive Programming ",
+    "price":1000,
+    "catagory":"Free",
+    "image":"https://img.freepik.com/premium-photo/neon-light-alphabet-3d-rendering-with-clipping-path_51264-55.jpg?size=626&ext=jpg&ga=GA1.1.532441772.1687938989&semt=ais_user" },
+   {
+    "id":2,
+    "name":"JAVA",
+    "title":"Nail your skill with us",
+    "Description":"Why should we learn JAVA? JAVA is a preferred choice for enterprise-level development due to its strong support for multithreading, scalability, and security. It provides a robust foundation for building large-scale, mission-critical applications used in various industries.Java also allows developers to create modular programs . Java is therefore a wise choice for beginners. ",
+    "price":3000,
+    "catagory":"Free",
+    "image":"https://t3.ftcdn.net/jpg/04/51/12/88/240_F_451128839_vmKOyil368UoXcac46W7aaqelTtLuNFk.jpg"}, {
+    "id":3,
+    "name":"C++",
+    "title":"Nail your skill with us",
+    "Description":"Why should we learn C++? C++ is versatile in nature and is a highly adaptable language. Due to high adaptability, it is still useful when it comes to software and developing games. It is widely used for so long that it is compatible with many languages and is in demand in many sectors ",
+    "price":2000,
+    "catagory":"Free",
+    "image":"https://images.pexels.com/photos/11035472/pexels-photo-11035472.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+    {
+    "id":4,
+    "name":"Python",
+    "title":"Nail your skill with us ",
+    "Description":"Why should we learn Python? Python is Its simple and readable syntax makes it accessible for beginners, while its versatility and extensive libraries make it powerful for advanced applications. ",
+    "price":3000,
+    "catagory":"Free",
+    "image":"https://images.pexels.com/photos/11035474/pexels-photo-11035474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" },
+   {
+    "id":5,
+    "name":"HTML",
+    "title":"Nail your skill with us ",
+    "Description":"Why should we learn HTML? HTML can provide tremendous value to people working in tech, as well as to those who are running their own business or managing a website",
+    "price":2500,
+    "catagory":"Free",
+    "image":"https://cdn.pixabay.com/photo/2018/05/08/21/28/html5-3384014_1280.png" },
+
+    {
+        "id":6,
+        "name":"CSS",
+        "title":"Nail your skill with us ",
+        "Description":"Why should we learn CSS? lets you design rudimentary web pages and also gives you the basic tools necessary to learn how to build more complex web assets with languages like JavaScript, React, Python and SQL.",
+        "price":2000,
+        "catagory":"Free",
+        "image":"https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+     },
+     {
+        "id":7,
+        "name":"Kotlin",
+        "title":"Nail your skill with us ",
+        "Description":"Why should we learn Kotlin? Kotlin is known for its stable and compact codebase. The language's design encourages developers to write concise and readable code, which makes it easier to maintain and modify over time. Additionally, it comes with robust error handling and null safety features that help developers avoid common programming errors. ",
+        "price":2000,
+        "catagory":"Free",
+        "image":"https://images.unsplash.com/photo-1588690154757-badf4644190f?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+     }
+        
+        
+    
+
+]
